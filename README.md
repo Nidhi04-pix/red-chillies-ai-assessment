@@ -69,3 +69,26 @@ Adobe Firefly
 - Resolution: 1536 × 1024 pixels
 - Format: PNG
 - Product: Aurallis Nova wireless headphones
+
+## Assessment 3 – Image Segmentation
+
+### Project Overview
+
+Created an image segmentation output to separate the target headphone object from the background.
+
+### Task Completed
+
+- Segmented the headphone object from the original image.
+- Removed the surrounding background while preserving the headphone and its stand.
+- Generated a transparent PNG cutout of the segmented object.
+
+### Output
+
+- `image_001.png` - Original input image
+- `headphone_cutout.png` - Segmented headphone with the background removed
+
+![Headphone Segmentation Output](headphone_cutout.png)
+
+### Tools / Technique
+
+AI-assisted image segmentation was used to separate the foreground headphone object from the background and generate the transparent PNG output.
