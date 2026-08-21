@@ -37,3 +37,35 @@ AI-assisted image editing and image enhancement techniques were used for the req
 ### Limitations
 
 The generated results may contain minor visual inconsistencies in complex areas of the scene, particularly around fine details and overlapping objects.
+
+## Assessment 2 – AI Promotional Visual
+
+### Project Overview
+
+Created a high-quality promotional key visual for a fictional premium headphone brand, Aurallis, launching its new wireless headphone model, Aurallis Nova.
+
+The visual was designed to communicate premium quality, modern technology, immersive sound, sophisticated design, and strong product focus.
+
+### Tool Used
+
+Adobe Firefly
+
+### Visual Direction
+
+- Premium cinematic product presentation
+- Modern and sophisticated technology-focused aesthetic
+- Aurallis Nova headphones as the dominant subject
+- Dark, high-end environment
+- Usable negative space for promotional text
+- Landscape composition
+
+### Output
+
+![Aurallis Nova Promotional Visual](assessment_2_aurallis_nova.png)
+
+### Output Specifications
+
+- Orientation: Landscape
+- Resolution: 1536 × 1024 pixels
+- Format: PNG
+- Product: Aurallis Nova wireless headphones
